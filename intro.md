@@ -11,6 +11,8 @@ date_footer: "YYYY-MM-DD"
 header_title: "Why do electrons fill shells in the n+l order?"
 ---
 
+DOI of this text: [doi:10.5281/zenodo.24577116](https://doi.org/10.5281/zenodo.24577116)
+
 This is an introductory text to the research paper *The Demkov-Ostrovsky Madelung model as the circle-invariant conformal Laplacian of the round 4-sphere* [Per26], by the same author. The paper has the proofs. This note has the idea. No equations are needed to follow it. It makes no claim the paper does not make, and it says which claims are proved and which are only computed or checked.
 
 One caution comes first, because the paper itself puts it first. This is about a **model**. It explains a neat piece of mathematics hiding inside a well-known model of the periodic table. It does not derive real atoms.
