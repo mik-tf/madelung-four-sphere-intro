@@ -91,22 +91,6 @@ It does not prove anything. It does not derive real atoms, and the paper does no
 - The original model [DO71, DO72].
 - The hydrogen sphere that this work imitates [Fock35].
 
-# References {-}
-
-[BFHS25] A. Bjerg, S. Fournais, P. Hearnshaw and J. P. Solovej, *The angular momentum distribution of electrons in large atoms and its deviation from Madelung's rule*, 2025, [arXiv:2506.14227](https://arxiv.org/abs/2506.14227).
-
-[DO71] Yu. N. Demkov and V. N. Ostrovsky, *Internal symmetry of the Maxwell "fish-eye" problem and the Fock group for the hydrogen atom*, Sov. Phys. JETP 33 (1971) 1083-1087.
-
-[DO72] Yu. N. Demkov and V. N. Ostrovsky, *n+l filling rule in the periodic system and focusing potentials*, Sov. Phys. JETP 35 (1972) 66-69.
-
-[Fock35] V. Fock, *Zur Theorie des Wasserstoffatoms*, Z. Phys. 98 (1935) 145-154, [doi:10.1007/BF01336904](https://doi.org/10.1007/BF01336904).
-
-[Per26] M. Perreault, *The Demkov-Ostrovsky Madelung model as the circle-invariant conformal Laplacian of the round 4-sphere*, 2026, Zenodo. [doi:10.5281/zenodo.24522163](https://doi.org/10.5281/zenodo.24522163).
-
-```{=latex}
-\par\ifdim\dimexpr\pagegoal-\pagetotal\relax<15\baselineskip\ifdim\pagetotal>0pt\newpage\fi\fi
-```
-
 # Use of AI {-}
 
 Claude (Anthropic) was used in November 2026, under the author's direction, for drafting, figures and checks.
@@ -120,3 +104,19 @@ Claude (Anthropic) was used in November 2026, under the author's direction, for 
 The full paper, with the proofs, is *The Demkov-Ostrovsky Madelung model as the circle-invariant conformal Laplacian of the round 4-sphere*, by Michaël Perreault.
 
 DOI: [doi:10.5281/zenodo.24522163](https://doi.org/10.5281/zenodo.24522163)
+
+```{=latex}
+\par\ifdim\dimexpr\pagegoal-\pagetotal\relax<15\baselineskip\ifdim\pagetotal>0pt\newpage\fi\fi
+```
+
+# References {-}
+
+[BFHS25] A. Bjerg, S. Fournais, P. Hearnshaw and J. P. Solovej, *The angular momentum distribution of electrons in large atoms and its deviation from Madelung's rule*, 2025, [arXiv:2506.14227](https://arxiv.org/abs/2506.14227).
+
+[DO71] Yu. N. Demkov and V. N. Ostrovsky, *Internal symmetry of the Maxwell "fish-eye" problem and the Fock group for the hydrogen atom*, Sov. Phys. JETP 33 (1971) 1083-1087.
+
+[DO72] Yu. N. Demkov and V. N. Ostrovsky, *n+l filling rule in the periodic system and focusing potentials*, Sov. Phys. JETP 35 (1972) 66-69.
+
+[Fock35] V. Fock, *Zur Theorie des Wasserstoffatoms*, Z. Phys. 98 (1935) 145-154, [doi:10.1007/BF01336904](https://doi.org/10.1007/BF01336904).
+
+[Per26] M. Perreault, *The Demkov-Ostrovsky Madelung model as the circle-invariant conformal Laplacian of the round 4-sphere*, 2026, Zenodo. [doi:10.5281/zenodo.24522163](https://doi.org/10.5281/zenodo.24522163).
